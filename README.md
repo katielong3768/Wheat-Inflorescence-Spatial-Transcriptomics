@@ -16,10 +16,6 @@ ImpulseDE2 script generating differential expression dataset from bulk RNA-seq</
 File detailing import of spatial transcriptomic data, normalisation and filtering, generating QC information and figures</p>
 </p>
 </p>
-<b>InSilico_Correlations_TPM_vs_Vizgen.ipynb</b> </p>
-Correlations of the bulk RNA-seq experiments to equivalent 'in silico' sections from MERFISH data</p>
-</p>
-</p>
 <b>SampleIntegrations_Clustering_GeneEnrichment.ipynb</b> </p>
 Sample integration with Scanorama, leiden clustering, and gene enrichment analysis </p>
 </p>
