@@ -1,2 +1,4 @@
-# LongListerEtAl
-MERFISH in Wheat Inflorescence Code
+# Long, Lister et al., 2024 
+Scripts supporting publication:
+
+
